@@ -24,17 +24,6 @@ A modern **News Web Application** built using **HTML, CSS, Bootstrap 5.3, and Ja
 * NewsAPI (REST API)
 
 
-## 📂 Project Structure
-
-```
-news-app/
-│
-├── index.html
-├── app.js
-└── README.md
-```
-
-
 ## 🔑 Getting Started
 
 ### 1. Clone the repository
@@ -76,7 +65,7 @@ https://newsapi.org/v2/everything?q=KEYWORD
 ### 🗂️ Category News
 
 ```
-https://newsapi.org/v2/top-headlines?country=us&category=CATEGORY
+https://newsapi.org/v2/top-headlines?category=CATEGORY
 ```
 
 Supported categories:
